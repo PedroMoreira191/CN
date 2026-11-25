@@ -1,0 +1,24 @@
+# Sistema operacional e editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python e Jupyter
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+.mypy_cache/
+.ruff_cache/
+.superpowers/
+
+# Artefatos temporários de construção
+tmp/
+*.log
+
+# Saídas locais opcionais
+.matplotlib/
+
